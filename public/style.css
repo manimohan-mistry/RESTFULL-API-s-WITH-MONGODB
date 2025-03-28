@@ -1,0 +1,32 @@
+body{
+    margin-left: 20px;
+}
+.chat-container{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.chat{
+    background-color:rgb(195, 207, 216);
+    padding: 20px;
+    border-radius: 16px;
+    width: 18%;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 10px;
+}
+
+h1{
+    color: orange;
+}
+
+.buttons-control{
+    display: flex;
+    /* justify-content: space-evenly; */
+}
